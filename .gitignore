@@ -1,0 +1,6 @@
+*.exe
+*.ass
+*.pyc
+C#/DanMuTool/bin
+C#/DanMuTool/obj
+python/mode/__pycache__
